@@ -2,7 +2,7 @@
 
 
 def find_item_by_name_in_collection(name, collection)
-items = {"AVOCADO", "KALE", "BLACK_BEANS"}, 
+items = {"AVOCADO", "KALE", "BLACK_BEANS"},
 {"ALMONDS", "TEMPEH", "CHEESE"},
 {"BEER", "PEANUTBUTTER", "BEETS"}
 
